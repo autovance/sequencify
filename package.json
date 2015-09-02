@@ -1,5 +1,5 @@
 {
-  "name": "sequencify",
+  "name": "sequencify-sa",
   "description": "A module for sequencing tasks and dependencies",
   "version": "1.0.0",
   "homepage": "https://github.com/robrich/sequencify",
